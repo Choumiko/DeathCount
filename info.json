@@ -1,0 +1,10 @@
+{
+  "name": "DeathCount",
+  "version": "0.0.1",
+  "factorio_version": "0.15",
+  "title": "Death count to file",
+  "author": "Choumiko",
+  "homepage": "",
+  "description": "Tool for streamers. Writes the number of deaths to a .txt file. Different file per savegame is possible",
+  "dependencies": []
+}
