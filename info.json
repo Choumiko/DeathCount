@@ -5,6 +5,6 @@
   "title": "Death count to file",
   "author": "Choumiko",
   "homepage": "",
-  "description": "Tool for streamers. Writes the number of deaths to a .txt file. Different file per savegame is possible",
+  "description": "Tool for streamers. Writes the number of player deaths to a .txt file. Different file per savegame is possible",
   "dependencies": []
 }
